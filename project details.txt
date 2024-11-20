@@ -1,0 +1,24 @@
+for icons
+https://github.com/tailwindlabs/heroicons
+install
+npm install @heroicons/react
+
+Hero section social icon
+npm i react-icons
+search react icons now 
+
+fullany 
+build the project 
+npm run build
+
+we can test this using local environment server in our comuter 
+npm install -g serve
+serve .\build\
+
+ Serving!                                │
+   │                                           │
+   │   - Local:    http://localhost:3000       │
+   │   - Network:  http://192.168.8.153:3000   │
+   │                                           │
+   │   Copied local address to clipboard!
+ 
